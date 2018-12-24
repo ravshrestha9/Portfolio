@@ -230,7 +230,7 @@ class Projects extends Component {
             style={{
             color: 'black',
             height: '176px',
-            background: 'url(http://php.net/images/logos/new-php-logo.png) center / cover'
+            background: 'url(https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) center / cover'
           }}>Restaurant Website</CardTitle>
           <CardText>
             This is responsive website for a sushi restaurant. Used HTML 5, CSS, Bootstrap and Jquery.
