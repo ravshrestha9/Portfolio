@@ -98,15 +98,17 @@ class Projects extends Component {
               color: '#fff',
               height: '176px',
               background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover'
-            }}>React Chat Application</CardTitle>
+            }}>React Ecommerce Application</CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-              Ipsum has been the industry's
+            This is a react eCommerce website using react, react-router, bootstrap, Context API, PayPal API.
             </CardText>
             <CardActions border>
-              <Button colored>GitHub</Button>
-              <Button colored>CodePen</Button>
-              <Button colored>Live Demo</Button>
+            <a href='https://react-ecommerce.netlify.com'>
+                <Button colored>Live Demo</Button>
+              </a>
+              <a href='https://github.com/ravshrestha9/react-ecommerce-website'>
+                <Button colored>Github</Button>
+              </a>
             </CardActions>
             <CardMenu style={{
               color: '#fff'
