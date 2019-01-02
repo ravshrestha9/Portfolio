@@ -103,7 +103,7 @@ class Projects extends Component {
             This is a react eCommerce website using react, react-router, bootstrap, Context API, PayPal API.
             </CardText>
             <CardActions border>
-            <a href='https://react-ecommerce.netlify.com'>
+            <a href='https://ravi-store.netlify.com/'>
                 <Button colored>Live Demo</Button>
               </a>
               <a href='https://github.com/ravshrestha9/react-ecommerce-website'>
