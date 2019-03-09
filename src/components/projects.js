@@ -202,7 +202,7 @@ class Projects extends Component {
               college Ambassador. Used HTML, CSS, Bootstrap, JQuery for the frontend and php for the admin section.
             </CardText>
             <CardActions border>
-              <a href='http://gmarsh.sites.truman.edu/collegeambassador/'>
+              <a href='http://www.truman.edu/meet-admissions/'>
                 <Button colored>GitHub</Button>
               </a>
 
